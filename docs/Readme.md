@@ -7,10 +7,12 @@
 |_|  |_|\__,_|_| |_|\__,_|_| |_____\__,_|\__,_| .__/ \__,_|
                                               |_|
 ```
+## Website
+* Name: [MandiEddpa](https://mandieddpa.github.io/)
+* Link : https://mandieddpa.github.io/
 
-MandiEddpa Name: [MandiEddpa](https://mandieddpa.github.io/)
-Website Link : https://mandieddpa.github.io/
-Developed By : [Sanjeev Stephan Murmu](https://sanjeevstephan.github.io/)
-Thanks for Visiting this Website [MandiEddpa](https://mandieddpa.github.io/) !
+## Developed By
+* Author : [Sanjeev Stephan Murmu](https://sanjeevstephan.github.io/)
+* [Portfolio](https://mandieddpa.github.io/Portfolio) !
 
 
